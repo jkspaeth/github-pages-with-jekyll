@@ -1,6 +1,6 @@
 title: JK Spaeth's Github Pages Tech Blog
 author: JK Spaeth
-email: jksapeth@gmail.com
+email: jkspaeth@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is John Spaeth's demo tech blog for GitHub Pages with Jekyll
   made through a lesson on Github's Learning Lab. JK Spaeth is an
@@ -9,7 +9,7 @@ description: > # this means to ignore newlines until "baseurl:"
 theme: minima
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: jkspaeth # DO NOT include the @ character, or else the build will fail!
+github_username:  jkspaeth # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
